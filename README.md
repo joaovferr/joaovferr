@@ -2,10 +2,9 @@
 <h3 align="center">A surfer and tennis player who likes data</h3>
 
 - 🔭 I’m currently a data analytics intern at **Topbuild**
+- 💡 I’m a strong believer that when it comes to data visualization **less is more**
+- 📫 How to reach me: on my email at **joao.alvarengaferreira@gmail.com**, or on <a href="https://linkedin.com/in/joaovitorferreira" target="_blank">My LinkedIn</a>
 
-- 👯 I’m a strong believer that **less is more o**
-
-- 📫 How to reach me **joao.alvarengaferreira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
