@@ -34,7 +34,7 @@
   </a>
   <!-- Adding Power BI icon -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://path_to_power_bi_icon.svg" alt="powerbi" width="40" height="40"/>
+    <img src="[https://path_to_power_bi_icon.svg](https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg)" alt="powerbi" width="40" height="40"/>
   </a>
 </p>
 
