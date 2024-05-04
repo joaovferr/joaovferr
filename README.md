@@ -30,7 +30,7 @@
   </a>
   <!-- Adding Tableau icon -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://path_to_tableau_icon.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="tableau" width="40" height="40"/>
   </a>
   <!-- Adding Power BI icon -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
