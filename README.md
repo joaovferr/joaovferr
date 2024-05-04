@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Joao</h1>
-<h3 align="left">A surfer and tennis player who likes data</h3>
+<h3 align="left">A surfer and tennis player who fell in love with data analytics</h3>
 
 - 🔭 I’m currently a data analytics intern at **Topbuild**
 - 💡 I’m a strong believer that when it comes to data visualization **less is more**
