@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Joao</h1>
 <h4 align="left">A Surfer and Tennis Player who fell in love with data analytics</h3>
 
-- 🔭 I’m currently a data analytics intern at **Topbuild**
+- 🔭 I’m currently a data analyst at **MedWatch**
 - 💡 I’m a strong believer that when it comes to data visualization **less is more**
 - 📫 How to reach me: on my email at **joao.alvarengaferreira@gmail.com**, or on <a href="https://linkedin.com/in/joaovitorferreira" target="_blank">My LinkedIn</a>
 
